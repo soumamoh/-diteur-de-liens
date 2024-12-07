@@ -1,4 +1,4 @@
-# Réalisation d'un éditeur de liens | Phase de réimplantation
+# Réalisation d'un éditeur de liens - Phase de réimplantation
 
 ## **Objectif du projet**
 L'objectif principal de ce projet est d'implémenter une sous-partie d'un éditeur de liens. Plus précisément, il se concentre sur la **dernière phase**, appelée **phase de réimplantation**, qui est exécutée par l'éditeur de liens.
